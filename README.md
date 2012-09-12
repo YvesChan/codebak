@@ -1,4 +1,5 @@
 codebak
 =======
 
-code back up
+
+This repo is found for back up my programming code in ACM/ICPC or other exercises
